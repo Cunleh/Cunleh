@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Securtiy Analyst at Masterschool.com
 - 💞️ I’m looking to collaborate on different project with different network
-- 📫 How to reach me ...
+- 📫 How to reach me is @cunleh
 
 <!---
 Cunleh/Cunleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
